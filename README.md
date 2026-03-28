@@ -5,37 +5,54 @@
 📍 Electrical & Computer Engineering student at Addis Ababa University  
 📍 Intern at A2SV, building scalable apps and SaaS prototypes  
 
-I’m passionaate about creating impactful systems, from mobile-first experiences to robust backend architectures. My focus is on building products that balance technical excellence with user-centered design, while exploring SaaS strategies that scale globally.
+I’m passionate about creating impactful systems, from mobile-first experiences to robust backend architectures. My focus is on building products that balance technical excellence with user-centered design, while exploring SaaS strategies that scale globally.
 
 ---
 
 ## 🔑 Featured Projects
 
-- **Ride-hailing & SaaS prototypes** – Architected multi-tenant systems with role-based access control, payment flows, and dashboards.
-- **EcommerceApp** – A simple ecommerce web app built with JavaScript.  
-- **Tk-pension-Booking** – Pension booking platform developed in TypeScript.  
-- **countries_app** – Flutter app displaying country data with clean UI.  
-  
+- **Ride-hailing & SaaS prototypes** – Architected multi-tenant systems with role-based access control, payment flows, and dashboards  
+- **EcommerceApp** – Simple ecommerce web app built with JavaScript  
+- **Tk-pension-Booking** – Pension booking platform developed in TypeScript  
+- **countries_app** – Flutter app displaying country data with clean UI  
+
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-- JavaScript, TypeScript, Dart, Java, Python  
-- Flutter, React, Node.js, NestJS, Prisma, GoLang
+### 🚀 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
 
-**Tools & Practices**  
-- Git, GitHub, Supabase, Cloud Deployment  
-- Schema-driven development, defensive SQL migrations  
-- Pixel-perfect UI/UX implementation  
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+</p>
 
---- 
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40"/>
+</p>
+
+---
 
 ## 📫 Get in Touch
 
-- **Email:** yobernu@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/yoseph-berhanu/
-- **Portfolio/Website:** https://resume-yoseph-berhanu.vercel.app/ 
+- **Email:** yobernu@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/yoseph-berhanu/  
+- **Portfolio:** https://resume-yoseph-berhanu.vercel.app/  
 
 ---
 
