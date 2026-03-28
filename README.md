@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yoseph 👋
 
-<!--
-**yobernu/yobernu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student developer based in Addis Ababa  
+- Interested in web apps, mobile apps, and problem solving  
+- Currently working with Dart/Flutter, TypeScript, Java, Python  
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **EcommerceApp** – Simple ecommerce web app (JS).  
+- **Tk-pension-Booking** – Pension booking app (TypeScript).  
+- **countries_app** – Flutter app showing countries data.  
+
+## Skills
+
+- Languages: JavaScript, TypeScript, Dart, Java, Python  
+- Tools: Git, GitHub  
+
+## Get in touch
+
+- Email: your-email  
+- LinkedIn: your-link
