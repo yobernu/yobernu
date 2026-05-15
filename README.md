@@ -1,6 +1,6 @@
 # Hi, I'm Yoseph 👋
 
-📍 Full-stack developer & product architect in training  
+📍 Full-stack developer - mobile focused
 📍 Based in Addis Ababa, Ethiopia  
 📍 Electrical & Computer Engineering student at Addis Ababa University  
 📍 Intern at A2SV, building scalable apps and SaaS prototypes  
@@ -9,14 +9,6 @@ I’m passionate about creating impactful systems, from mobile-first experiences
 
 ---
 
-## 🔑 Featured Projects
-
-- **Ride-hailing & SaaS prototypes** – Architected multi-tenant systems with role-based access control, payment flows, and dashboards  
-- **EcommerceApp** – Simple ecommerce web app built with JavaScript  
-- **Tk-pension-Booking** – Pension booking platform developed in TypeScript  
-- **countries_app** – Flutter app displaying country data with clean UI  
-
----
 
 ## 🛠️ Tech Stack
 
