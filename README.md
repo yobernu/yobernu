@@ -1,11 +1,14 @@
 # Hi, I'm Yoseph 👋
 
-📍 Full-stack developer — mobile focused  
+📍 Software Engineer
 📍 Based in Addis Ababa, Ethiopia  
 📍 Electrical & Computer Engineering student at Addis Ababa University  
-📍 Intern at A2SV, building scalable apps and SaaS prototypes  
 
-I’m passionate about creating impactful systems, from mobile-first experiences to scalable backend architectures. My focus is on building products that balance technical excellence with user-centered design, while exploring SaaS strategies that scale globally.
+📍 Intern at A2SV, building scalable and clean apps
+📍 Intern at Vivid-Insights [Computer Vision]
+📍 Intern at Menna AI [Fullstack development]
+
+Computer Engineering student at Addis Ababa University (BSc expected June 2027) who builds and ships full-stack products in Go, TypeScript and PostgreSQL. Built Seera, a bilingual legal Q&A platform whose releases are gated on an automated evaluation harness and 500+ tests. Led development of Unity-Go, a ride and delivery platform with a prepaid commission wallet and database-enforced access control. Former Software developer intern at Menna AI; A2SV software engineering trainee with 600+ solved algorithm problems.
 
 ---
 
